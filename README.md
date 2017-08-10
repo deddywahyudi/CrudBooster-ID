@@ -11,6 +11,7 @@ Kemudian jangan lupa untuk mengubah locale pada pengaturan di file app.php sesua
 
 Setelah perubahan diatas jalankan :
 php artisan key:generate
+
 php artisan config:cache
 
 Untuk menghapus cache yang tertinggal, sehingga anda bisa melihat perubahan.
