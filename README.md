@@ -10,6 +10,7 @@ Anda tinggal mengganti semua bahasa inggris ke bahasa yang anda kehendaki.
 Kemudian jangan lupa untuk mengubah locale pada pengaturan di file app.php sesuai dengan nama folder yang baru saja anda buat.
 
 Setelah perubahan diatas jalankan :
+
 php artisan key:generate
 
 php artisan config:cache
